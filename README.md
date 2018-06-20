@@ -15,5 +15,5 @@ This is a command prompt where you need to register an "account" to log in to th
 This is a simple game where you try to guess a number. It will tell you to guess lower or higher, depending on your guess. If you can't figure out the number, type the backdoor key, `bat`, to get the answer.
 
 ### Rainbow
-**WARNING: THIS MAY CAUSE SEIZUES**
+**WARNING: THIS MAY CAUSE SEIZUES** <br />
 This just flashes a bunch of colors.
