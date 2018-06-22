@@ -17,3 +17,6 @@ This is a simple game where you try to guess a number. It will tell you to guess
 ### Rainbow
 **WARNING: THIS MAY CAUSE SEIZUES**
 This just flashes a bunch of colors.
+
+### Blue Screen of Death (BSOD)
+This makes a fake version of the Windows Blue Screen of Death, which happens when something bad happens to your computer.
