@@ -16,6 +16,7 @@ This is a simple game where you try to guess a number. It will tell you to guess
 
 ### Rainbow
 **WARNING: THIS MAY CAUSE SEIZUES**
+<br>
 This just flashes a bunch of colors.
 
 ### Blue Screen of Death (BSOD)
