@@ -6,7 +6,7 @@ Various [Instructables](http://www.instructables.com/)
 
 ## File Descriptions
 ### Matrix.bat
-This looks like a computer matrix, as it displays 10 sets of random numbers in the color green.
+This looks like a computer matrix, as it displays random numbers in the color green. You can pick two variations when you start the file.
 
 ### Password Protected Command Prompt (PPCMD)
 This is a command prompt where you need to register an "account" to log in to the command prompt. After you register, you can log in and use the command prompt. This file stores data in `%APPDATA%/ppcmd`.
@@ -15,13 +15,8 @@ This is a command prompt where you need to register an "account" to log in to th
 This is a simple game where you try to guess a number. It will tell you to guess lower or higher, depending on your guess. If you can't figure out the number, type the backdoor key, `bat`, to get the answer.
 
 ### Rainbow
-<<<<<<< HEAD
 **WARNING: THIS MAY CAUSE SEIZUES**
 This just flashes a bunch of colors.
 
 ### Blue Screen of Death (BSOD)
 This makes a fake version of the Windows Blue Screen of Death, which happens when something bad happens to your computer.
-=======
-**WARNING: THIS MAY CAUSE SEIZUES** <br />
-This just flashes a bunch of colors.
->>>>>>> 3bdbdb3384098f3dd00c45a9d213f3592d753047
