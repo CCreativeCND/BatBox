@@ -1,4 +1,4 @@
-# BatBox
+# BAT
 This is a collection of _.bat_ files I have created.
 
 ## Acknowledgments
