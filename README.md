@@ -5,7 +5,7 @@ This is a collection of _.bat_ files I have created.
 Various [Instructables](http://www.instructables.com/)
 
 ## File Descriptions
-### Matrix.bat
+### Matrix
 This looks like a computer matrix, as it displays random numbers in the color green. You can pick two variations when you start the file.
 
 ### Password Protected Command Prompt (PPCMD)
